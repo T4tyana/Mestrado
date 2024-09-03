@@ -1,2 +1,2 @@
 # Mestrado
-Trabalhos de mestrado na matéria de Visão Computacional.
+Este repositório é dedicado aos trabalhos realizados em meu mestrado de Ciências Computacionais.
